@@ -9,7 +9,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "bugs": {
-    "url": "https://github.com/alexmacarthur/wp-vue/issues"
+    "url": "https://github.com/zakirsajib/FrontlashVuejs/issues"
   },
   "homepage": "https://wp.netlify.com",
   "dependencies": {
@@ -50,6 +50,6 @@
   "main": "src/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexmacarthur/wp-vue"
+    "url": "https://github.com/zakirsajib/FrontlashVuejs"
   }
 }
