@@ -26,7 +26,7 @@ Run `yarn run build`.
 ### Deploy to Netlify
 Netlify is amazing, so if you're in need of somewhere to host your own version of this project, I highly recommend it. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alexmacarthur/frontlash-vue)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zakirsajib/FrontlashVuejs)
 
 ## Caching
 Out of the box, WP Vue will locally cache AJAX requests in memory, and then load them as needed. This first happens on page load, when all queried posts on the current and adjacent pages are cached for quick access later. 
