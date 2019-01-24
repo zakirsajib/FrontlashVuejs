@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>The Frontlash with Vue</title>
+    <title>WP Vue</title>
     <link rel='shortcut icon' type='image/x-icon' href='/src/assets/img/favicon.ico' />
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:100,300,400|Nunito:400,800" as="style" onload="this.rel='stylesheet'">
     <script src="/src/vendor/loadCSS.js"></script>
-    
-	
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/node_modules/swiper/dist/css/swiper.min.css" />
     <meta name="description" content="Just a simple Vue blog that displays posts via the WordPress REST API. Fork it and rip it up!">
     <meta name="keywords" content="Vue,JavaScript,WordPress,REST API">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,9 +23,11 @@
   </head>
   <body>
     <div id="app"></div>
+    <script href="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/swiper/dist/js/swiper.min.js"></script>
+    <script src="/node_modules/packery/dist/packery.pkgd.min.js"></script>
     <script src="/src/vendor/SmoothScroll.js"></script>
     <script src="/src/vendor/lazysizes.min.js" async="async"></script>
     <script src="/dist/build.js"></script>
-
   </body>
 </html>
