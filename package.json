@@ -1,9 +1,9 @@
 {
   "name": "wp-vue",
-  "description": "Just a Vue template that displays posts via the WordPress REST API. Rip this sucka apart and make it your own!",
+  "description": "Just a Vue template that displays posts via the WordPress REST API.",
   "version": "0.2.0",
   "license": "MIT",
-  "author": "Alex MacArthur <alex@macarthur.me> (https://macarthur.me)",
+  "author": "Zakir Sajib <zakirsajib@gmail.com> (https://zakirsajib.netlify.com)",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
